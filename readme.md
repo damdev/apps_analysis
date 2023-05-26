@@ -8,8 +8,9 @@ This is an exersice to analyze the apps data in the Google Play Store and the Ap
 
 The data used to this analysis can be found on Kaggle:
 
-https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
-https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps
+- https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
+
+- https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps
 
 In order to not commit the full data to the repository, the data is not included in the repository. The data can be downloaded from the links above and placed in the `data` folder. On the data folder you can find a sample of the data, to make this example executable, and also on the first lines of the Jupiter notebook you can find a flag to switch between sample or real data parsing.
 
