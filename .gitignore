@@ -1,0 +1,4 @@
+.DS_Store
+data/Google-Playstore.csv
+data/appleAppData.csv
+#jupyter_notebooks/.ipynb_checkpoints
